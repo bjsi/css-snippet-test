@@ -1,3 +1,5 @@
-[data-rem-tags~="plugin-style"] {
-  background: orange;
+.document-title, .doc-title-large {
+	font-variant: small-caps;
+ 	padding-bottom: 1px;
+ 	text-align: center;
 }
