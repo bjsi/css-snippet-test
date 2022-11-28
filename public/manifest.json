@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
-  "id": "snippet_template",
-  "name": "Snippet Template",
-  "author": "remnote",
+  "id": "document_title_snippet",
+  "name": "Document Title Snippet",
+  "author": "Anisha",
   "repoUrl": "https://www.google.com",
   "version": {
     "major": 0,
@@ -16,7 +16,7 @@
   "requiredScopes": [
     {
       "type": "All",
-      "level": "ReadCreateModify"
+      "level": "Read"
     }
   ]
 }
